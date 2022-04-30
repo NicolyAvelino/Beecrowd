@@ -1,2 +1,2 @@
 # Beecrowd
-Soluções das questões do Beecrowd.
+Soluções das questões do Beecrowd em Python.
